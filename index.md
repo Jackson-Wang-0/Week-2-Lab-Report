@@ -4,10 +4,15 @@
 
 
 ### Let's begin the Tutorial !!!
+# Visual Studio Code
 
 1. First, You need to download [Visual Studio Code](https://code.visualstudio.com) on your computer. After it is installed, double click the icon and you will end up in a screen which looks like this. (it could look a little different)
 
 <img width="1024" alt="截屏2022-01-12 下午11 14 40" src="https://user-images.githubusercontent.com/97211608/149283051-fae79476-3c5c-4aff-bbd6-0204ace0fb86.png">
+
+# Remotely Connecting
+
+2. 
 
 You can use the [editor on GitHub](https://github.com/Jackson-Wang-0/Week-2-Lab-Report/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
