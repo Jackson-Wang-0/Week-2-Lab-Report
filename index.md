@@ -20,10 +20,11 @@ Next, each student have their own course-specific account which can be found at:
 _Note: for CSE15L, our account starts with **cs15lwi22**_
 
 
-Enter the following command but replace `zz` with the letters of your course-specific account 
+Enter the following command but replace `abc` with the letters of your course-specific account 
+
 
 ```
-ssh cs15lwi22zz@ieng6.ucsd.edu
+ssh cs15lwi22abc@ieng6.ucsd.edu
 ```
 
 If this is your first time connecting to a server, you will get a message like this:
@@ -36,7 +37,28 @@ After you successfully logged in with your password, the output should look like
 
 <img width="686" alt="截屏2022-01-13 下午5 49 07" src="https://user-images.githubusercontent.com/97211608/149437544-1fce6089-df67-437d-8768-1875fbbbded7.png">
 
-If you made it this far, congrats! Your terminal is now conneced to a computer in the CSE basement!!!
+If you made it this far, congrats! Your terminal is now conneced!!!
+
+# Trying Some Commands
+
+Below are some commands you can try on your own:
+
+- `cd~`  navigate to your home directory
+- `cd` navigate to your home directory
+- `ls -lat` list latest files
+- `ls -a` list all files
+- `ls<directory>' where '<directory>' is '/home/linux/ieng6/cs15lwi22/cs15lwi22abc/`
+- `cp /home/linux/ieng6/cs15lwi22/public/hello.txt ~/`
+- `cat /home/linux/ieng6/cs15lwi22/public/hello.txt`
+
+Logout command:
+
+- `exit`
+
+<img width="471" alt="截屏2022-01-13 下午7 39 48" src="https://user-images.githubusercontent.com/97211608/149447606-315fce80-e936-490d-af7d-83fb30561b38.png">
+
+# Moving Files with `scp`
+
 
 
 
