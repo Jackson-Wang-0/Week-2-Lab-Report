@@ -47,7 +47,7 @@ Below are some commands you can try on your own:
 - `cd` navigate to your home directory
 - `ls -lat` list latest files
 - `ls -a` list all files
-- `ls<directory>' where '<directory>' is '/home/linux/ieng6/cs15lwi22/cs15lwi22abc/`
+- `ls<directory>` where `<directory>` is `/home/linux/ieng6/cs15lwi22/cs15lwi22abc/`
 - `cp /home/linux/ieng6/cs15lwi22/public/hello.txt ~/`
 - `cat /home/linux/ieng6/cs15lwi22/public/hello.txt`
 
