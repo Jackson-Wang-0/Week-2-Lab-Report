@@ -14,9 +14,11 @@
 
 - Window users need to [install OpenSSH](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse) to connect your computer to another computer.
 
-Next, each student have their own course-specific account which can be found at: [account lookup](https://sdacs.ucsd.edu/~icc/index.php)
+Next, each student have their own course-specific account which can be found at: [Account Lookup](https://sdacs.ucsd.edu/~icc/index.php)
+
 
 _Note: for CSE15L, our account starts with **cs15lwi22**_
+
 
 Enter the following command but replace `zz` with the letters of your course-specific account 
 
