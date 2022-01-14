@@ -26,6 +26,15 @@ Enter the following command but replace `zz` with the letters of your course-spe
 ssh cs15lwi22zz@ieng6.ucsd.edu
 ```
 
+If this is your first time connecting to a server, you will get a message like this:
+```
+Are you sure you want to continue connecting (yes/no/[fingerprint])? 
+```
+We usually type `yes` in this case and then it will ask for your password!
+
+After you successfully logged in with your password, the output should look like this
+<img width="686" alt="截屏2022-01-13 下午5 49 07" src="https://user-images.githubusercontent.com/97211608/149437544-1fce6089-df67-437d-8768-1875fbbbded7.png">
+
 
 
 You can use the [editor on GitHub](https://github.com/Jackson-Wang-0/Week-2-Lab-Report/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
