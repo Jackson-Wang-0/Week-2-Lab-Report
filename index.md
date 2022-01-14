@@ -37,7 +37,7 @@ After you successfully logged in with your password, the output should look like
 
 <img width="686" alt="截屏2022-01-13 下午5 49 07" src="https://user-images.githubusercontent.com/97211608/149437544-1fce6089-df67-437d-8768-1875fbbbded7.png">
 
-If you made it this far, congrats! Your terminal is now conneced!!!
+If you made it this far, congrats! Your terminal is now connected!!!
 
 # Trying Some Commands
 
